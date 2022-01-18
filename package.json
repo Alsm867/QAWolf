@@ -1,0 +1,19 @@
+{
+  "name": "qawolf-take-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "install-deps": "^1.1.0",
+    "playwright": "^1.19.0-alpha-jan-14-2022"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
